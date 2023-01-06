@@ -1,3 +1,9 @@
+//select elements needed
+const computerChoice = document.getElementById('computer-choice');
+const userChoice = document.getElementById('user-choice');
+const resultDisplay = document.getElementById('result');
+//pick out all the possible choices (the buttons)
+const possibleChoices = document.querySelector('.button');
 //if click rock 
 
 //show for user
